@@ -2,10 +2,11 @@
   "name": "i2222467_lab07",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "mocha tests/**/*.js"
-  },
+  "test": "mocha --exit tests/**/*.js"
+}
+,
   "keywords": [],
   "author": "",
   "license": "ISC",
